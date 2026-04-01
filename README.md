@@ -45,8 +45,8 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: dev.itsdeepakr@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/deepak-r-4b3352308
 - 🌐 Portfolio: (if you have)
 
 ---
